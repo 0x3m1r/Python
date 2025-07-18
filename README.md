@@ -1,1 +1,1 @@
-# C-Learn
+# Python için önemli kütüphaneler
